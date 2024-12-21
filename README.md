@@ -67,4 +67,4 @@ If you find this repo useful , give it a star
 
 Credits
 -----------
-All the credits to [kalebu](https://github.com/anurag-1008)
+All the credits to https://github.com/anurag-1008
